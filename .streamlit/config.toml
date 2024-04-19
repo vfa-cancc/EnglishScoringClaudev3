@@ -1,0 +1,16 @@
+[browser]
+gatherUsageStats = true
+
+[client]
+toolbarMode = "minimal"
+
+[application]
+disableHamburgerMenu = true
+
+[theme]
+base="light"
+primaryColor="#508D69"
+font="sans serif"
+
+[server]
+maxUploadSize = 2
